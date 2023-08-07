@@ -1,5 +1,7 @@
-### KWON DONG WON
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd0710)](https://solved.ac/ehd0710/)
+## KWON DONG WON
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd0710)](https://solved.ac/ehd0710/) <br><br>
+### blog
+https://velog.io/@dongwonkwon
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
