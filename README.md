@@ -1,4 +1,4 @@
-## KWON DONG WON
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehd0710)](https://solved.ac/ehd0710/) <br><br>
 ### Blog
 https://velog.io/@dongwonkwon
